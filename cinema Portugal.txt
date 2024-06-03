@@ -1,0 +1,1702 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES SD
+http://799139845903339490.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/339490.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX FHD
+http://799139845903339526.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/339526.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD SD
+http://799139845903374678.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/374678.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY SD
+http://799139845903623304.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/623304.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE HEVC
+http://799139845903722199.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/722199.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://799139845903748427.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/748427.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION SD" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION SD
+http://799139845903749010.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/749010.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://799139845903755898.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/755898.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EDITION HD
+http://799139845903755911.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/755911.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EMOTION HD
+http://799139845903755914.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/755914.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES HEVC" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES HEVC
+http://799139845903770428.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/770428.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HEVC" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES HEVC
+http://799139845903770448.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/770448.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HEVC" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION HEVC
+http://799139845903770480.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/770480.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HEVC" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HEVC
+http://799139845903770481.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/770481.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY FHD
+http://799139845903780278.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/780278.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE FHD
+http://799139845903784702.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/784702.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://799139845903793645.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/793645.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://799139845903794928.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/794928.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP SD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP SD
+http://799139845903795740.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/795740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDOᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: CINEMUNDOᴴᴰ SD
+http://799139845903799130.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/799130.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HEVC" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME HEVC
+http://799139845903799156.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/799156.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HD
+http://799139845903800703.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/800703.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFEᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: FOX LIFEᶠᴴᴰ FHD
+http://799139845903802470.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/802470.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN HEVC
+http://799139845903814411.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/814411.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NOS FHD" tvg-logo="" group-title="Portugal",PT: CANAL NOS FHD
+http://799139845903816076.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/816076.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO HEVC" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO HEVC
+http://799139845903817726.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/817726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC CRIME FHD" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" group-title="Portugal",PT: AMC CRIME FHD
+http://799139845903821797.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/821797.ts
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: AMC BREAK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/2560px-AMC_Break.svg.png" group-title="Portugal",PT: AMC BREAK FHD
+http://799139845903824896.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/824896.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://799139845903833490.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/833490.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY HEVC" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY HEVC
+http://799139845903836464.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/836464.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX HEVC
+http://799139845903836466.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/836466.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="Portugal",PT: TVCINE TOP FHD
+http://799139845903838702.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/838702.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://799139845903840081.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/840081.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://799139845903840647.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/840647.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES FHD
+http://799139845903849654.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/849654.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE HEVC
+http://799139845903852834.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/852834.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC FHD
+http://799139845903854747.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/854747.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO SD" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO SD
+http://799139845903854749.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/854749.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HEVC" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HEVC
+http://799139845903854765.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/854765.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE FHD
+http://799139845903855648.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/855648.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS FHD
+http://799139845903855655.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/855655.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION FHD
+http://799139845903855657.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/855657.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN FHD
+http://799139845903856211.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/856211.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES SD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES SD
+http://799139845903856225.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/856225.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX SD
+http://799139845903856226.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/856226.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HD
+http://799139845903856227.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/856227.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://799139845903857181.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857181.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY HEVC
+http://799139845903857190.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857190.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION FHD
+http://799139845903857192.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857192.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION FHD
+http://799139845903857193.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857193.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES SD
+http://430157538976339490.ofk0601.xyz:80/play/Kurrit921D/641590179M121/339490.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX FHD
+http://430157538976339526.ofk0601.xyz:80/play/Kurrit921D/641590179M121/339526.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD SD
+http://430157538976374678.ofk0601.xyz:80/play/Kurrit921D/641590179M121/374678.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY SD
+http://430157538976623304.ofk0601.xyz:80/play/Kurrit921D/641590179M121/623304.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE HEVC
+http://430157538976722199.ofk0601.xyz:80/play/Kurrit921D/641590179M121/722199.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://430157538976748427.ofk0601.xyz:80/play/Kurrit921D/641590179M121/748427.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION SD" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION SD
+http://430157538976749010.ofk0601.xyz:80/play/Kurrit921D/641590179M121/749010.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://430157538976755898.ofk0601.xyz:80/play/Kurrit921D/641590179M121/755898.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EDITION HD
+http://430157538976755911.ofk0601.xyz:80/play/Kurrit921D/641590179M121/755911.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EMOTION HD
+http://430157538976755914.ofk0601.xyz:80/play/Kurrit921D/641590179M121/755914.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES HEVC" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES HEVC
+http://430157538976770428.ofk0601.xyz:80/play/Kurrit921D/641590179M121/770428.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HEVC" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES HEVC
+http://430157538976770448.ofk0601.xyz:80/play/Kurrit921D/641590179M121/770448.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HEVC" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION HEVC
+http://430157538976770480.ofk0601.xyz:80/play/Kurrit921D/641590179M121/770480.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HEVC" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HEVC
+http://430157538976770481.ofk0601.xyz:80/play/Kurrit921D/641590179M121/770481.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY FHD
+http://430157538976780278.ofk0601.xyz:80/play/Kurrit921D/641590179M121/780278.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE FHD
+http://430157538976784702.ofk0601.xyz:80/play/Kurrit921D/641590179M121/784702.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://430157538976793645.ofk0601.xyz:80/play/Kurrit921D/641590179M121/793645.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://430157538976794928.ofk0601.xyz:80/play/Kurrit921D/641590179M121/794928.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP SD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP SD
+http://430157538976795740.ofk0601.xyz:80/play/Kurrit921D/641590179M121/795740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDOᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: CINEMUNDOᴴᴰ SD
+http://430157538976799130.ofk0601.xyz:80/play/Kurrit921D/641590179M121/799130.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HEVC" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME HEVC
+http://430157538976799156.ofk0601.xyz:80/play/Kurrit921D/641590179M121/799156.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HD
+http://430157538976800703.ofk0601.xyz:80/play/Kurrit921D/641590179M121/800703.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFEᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: FOX LIFEᶠᴴᴰ FHD
+http://430157538976802470.ofk0601.xyz:80/play/Kurrit921D/641590179M121/802470.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN HEVC
+http://430157538976814411.ofk0601.xyz:80/play/Kurrit921D/641590179M121/814411.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL NOS FHD" tvg-logo="" group-title="Portugal",PT: CANAL NOS FHD
+http://430157538976816076.ofk0601.xyz:80/play/Kurrit921D/641590179M121/816076.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO HEVC" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO HEVC
+http://430157538976817726.ofk0601.xyz:80/play/Kurrit921D/641590179M121/817726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC CRIME FHD" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" group-title="Portugal",PT: AMC CRIME FHD
+http://430157538976821797.ofk0601.xyz:80/play/Kurrit921D/641590179M121/821797.ts
+#EXTINF:-1 tvg-id="blaze.pt" tvg-name="PT: AMC BREAK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/2560px-AMC_Break.svg.png" group-title="Portugal",PT: AMC BREAK FHD
+http://430157538976824896.ofk0601.xyz:80/play/Kurrit921D/641590179M121/824896.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://430157538976833490.ofk0601.xyz:80/play/Kurrit921D/641590179M121/833490.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY HEVC" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY HEVC
+http://430157538976836464.ofk0601.xyz:80/play/Kurrit921D/641590179M121/836464.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX HEVC
+http://430157538976836466.ofk0601.xyz:80/play/Kurrit921D/641590179M121/836466.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="Portugal",PT: TVCINE TOP FHD
+http://430157538976838702.ofk0601.xyz:80/play/Kurrit921D/641590179M121/838702.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://430157538976840081.ofk0601.xyz:80/play/Kurrit921D/641590179M121/840081.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://430157538976840647.ofk0601.xyz:80/play/Kurrit921D/641590179M121/840647.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES FHD
+http://430157538976849654.ofk0601.xyz:80/play/Kurrit921D/641590179M121/849654.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE HEVC
+http://430157538976852834.ofk0601.xyz:80/play/Kurrit921D/641590179M121/852834.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC FHD
+http://430157538976854747.ofk0601.xyz:80/play/Kurrit921D/641590179M121/854747.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO SD" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO SD
+http://430157538976854749.ofk0601.xyz:80/play/Kurrit921D/641590179M121/854749.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HEVC" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HEVC
+http://430157538976854765.ofk0601.xyz:80/play/Kurrit921D/641590179M121/854765.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE FHD
+http://430157538976855648.ofk0601.xyz:80/play/Kurrit921D/641590179M121/855648.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS FHD
+http://430157538976855655.ofk0601.xyz:80/play/Kurrit921D/641590179M121/855655.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN FHD
+http://430157538976856211.ofk0601.xyz:80/play/Kurrit921D/641590179M121/856211.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES SD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES SD
+http://430157538976856225.ofk0601.xyz:80/play/Kurrit921D/641590179M121/856225.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX SD
+http://430157538976856226.ofk0601.xyz:80/play/Kurrit921D/641590179M121/856226.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HD
+http://430157538976856227.ofk0601.xyz:80/play/Kurrit921D/641590179M121/856227.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://430157538976857181.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857181.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY HEVC
+http://430157538976857190.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857190.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION FHD
+http://430157538976857192.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857192.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION FHD
+http://430157538976857193.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857193.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES SD
+http://934189609995339490.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/339490.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX FHD
+http://934189609995339526.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/339526.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD SD
+http://934189609995374678.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/374678.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY SD
+http://934189609995623304.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/623304.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE HEVC
+http://934189609995722199.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/722199.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://934189609995748427.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/748427.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://934189609995755898.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/755898.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EDITION HD
+http://934189609995755911.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/755911.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EMOTION HD
+http://934189609995755914.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/755914.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES HEVC" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES HEVC
+http://934189609995770428.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/770428.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HEVC" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES HEVC
+http://934189609995770448.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/770448.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HEVC" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION HEVC
+http://934189609995770480.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/770480.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HEVC" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HEVC
+http://934189609995770481.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/770481.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY FHD
+http://934189609995780278.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/780278.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE FHD
+http://934189609995784702.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/784702.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://934189609995793645.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/793645.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://934189609995794928.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/794928.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP SD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP SD
+http://934189609995795740.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/795740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDOᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: CINEMUNDOᴴᴰ SD
+http://934189609995799130.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/799130.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HEVC" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME HEVC
+http://934189609995799156.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/799156.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HD
+http://934189609995800703.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/800703.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFEᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: FOX LIFEᶠᴴᴰ FHD
+http://934189609995802470.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/802470.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN HEVC
+http://934189609995814411.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/814411.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO HEVC" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO HEVC
+http://934189609995817726.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/817726.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://934189609995833490.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/833490.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY HEVC" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY HEVC
+http://934189609995836464.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/836464.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX HEVC
+http://934189609995836466.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/836466.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="Portugal",PT: TVCINE TOP FHD
+http://934189609995838702.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/838702.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://934189609995840081.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/840081.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://934189609995840647.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/840647.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES FHD
+http://934189609995849654.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/849654.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE HEVC
+http://934189609995852834.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/852834.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC FHD
+http://934189609995854747.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/854747.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO SD" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO SD
+http://934189609995854749.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/854749.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HEVC" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HEVC
+http://934189609995854765.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/854765.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE FHD
+http://934189609995855648.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/855648.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS FHD
+http://934189609995855655.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/855655.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION FHD
+http://934189609995855657.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/855657.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN FHD
+http://934189609995856211.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/856211.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES SD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES SD
+http://934189609995856225.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/856225.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX SD
+http://934189609995856226.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/856226.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HD
+http://934189609995856227.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/856227.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://934189609995857181.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/857181.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY HEVC
+http://934189609995857190.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/857190.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION FHD
+http://934189609995857192.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/857192.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION FHD
+http://934189609995857193.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/857193.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES SD
+http://691210543688339490.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/339490.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX FHD
+http://691210543688339526.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/339526.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD SD
+http://691210543688374678.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/374678.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY SD
+http://691210543688623304.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/623304.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE HEVC
+http://691210543688722199.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/722199.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://691210543688748427.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/748427.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION SD" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION SD
+http://691210543688749010.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/749010.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://691210543688755898.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/755898.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EDITION HD
+http://691210543688755911.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/755911.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EMOTION HD
+http://691210543688755914.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/755914.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES HEVC" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES HEVC
+http://691210543688770428.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/770428.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HEVC" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES HEVC
+http://691210543688770448.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/770448.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HEVC" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION HEVC
+http://691210543688770480.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/770480.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HEVC" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HEVC
+http://691210543688770481.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/770481.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY FHD
+http://691210543688780278.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/780278.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE FHD
+http://691210543688784702.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/784702.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://691210543688793645.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/793645.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://691210543688794928.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/794928.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP SD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP SD
+http://691210543688795740.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/795740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDOᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: CINEMUNDOᴴᴰ SD
+http://691210543688799130.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/799130.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HEVC" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME HEVC
+http://691210543688799156.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/799156.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HD
+http://691210543688800703.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/800703.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFEᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: FOX LIFEᶠᴴᴰ FHD
+http://691210543688802470.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/802470.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN HEVC
+http://691210543688814411.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/814411.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO HEVC" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO HEVC
+http://691210543688817726.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/817726.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://691210543688833490.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/833490.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY HEVC" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY HEVC
+http://691210543688836464.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/836464.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX HEVC
+http://691210543688836466.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/836466.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="Portugal",PT: TVCINE TOP FHD
+http://691210543688838702.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/838702.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://691210543688840081.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/840081.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://691210543688840647.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/840647.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES FHD
+http://691210543688849654.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/849654.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE HEVC
+http://691210543688852834.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/852834.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC FHD
+http://691210543688854747.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/854747.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO SD" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO SD
+http://691210543688854749.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/854749.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HEVC" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HEVC
+http://691210543688854765.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/854765.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE FHD
+http://691210543688855648.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/855648.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS FHD
+http://691210543688855655.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/855655.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION FHD
+http://691210543688855657.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/855657.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN FHD
+http://691210543688856211.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/856211.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES SD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES SD
+http://691210543688856225.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/856225.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX SD
+http://691210543688856226.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/856226.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HD
+http://691210543688856227.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/856227.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://691210543688857181.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857181.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY HEVC
+http://691210543688857190.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857190.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION FHD
+http://691210543688857192.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857192.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION FHD
+http://691210543688857193.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857193.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES SD
+http://477222195778339490.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/339490.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX FHD
+http://477222195778339526.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/339526.
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD SD
+http://477222195778374678.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/374678.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY SD
+http://477222195778623304.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/623304.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE HEVC
+http://477222195778722199.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/722199.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://477222195778748427.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/748427.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION SD" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION SD
+http://477222195778749010.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/749010.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://477222195778755898.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/755898.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EDITION HD
+http://477222195778755911.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/755911.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EMOTION HD
+http://477222195778755914.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/755914.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES HEVC" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES HEVC
+http://477222195778770428.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/770428.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HEVC" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES HEVC
+http://477222195778770448.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/770448.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HEVC" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION HEVC
+http://477222195778770480.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/770480.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HEVC" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HEVC
+http://477222195778770481.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/770481.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY FHD
+http://477222195778780278.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/780278.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE FHD
+http://477222195778784702.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/784702.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://477222195778793645.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/793645.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://477222195778794928.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/794928.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://477222195778794928.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/794928.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDOᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: CINEMUNDOᴴᴰ SD
+http://477222195778799130.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/799130.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HEVC" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME HEVC
+http://477222195778799156.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/799156.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HD
+http://477222195778800703.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/800703.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFEᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: FOX LIFEᶠᴴᴰ FHD
+http://477222195778802470.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/802470.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN HEVC
+http://477222195778814411.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/814411.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO HEVC" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO HEVC
+http://477222195778817726.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/817726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC CRIME FHD" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" group-title="Portugal",PT: AMC CRIME FHD
+http://477222195778821797.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/821797.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://477222195778833490.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/833490.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY HEVC" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY HEVC
+http://477222195778836464.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/836464.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX HEVC
+http://477222195778836466.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/836466.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="Portugal",PT: TVCINE TOP FHD
+http://477222195778838702.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/838702.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://477222195778840081.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/840081.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://477222195778840647.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/840647.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://477222195778840647.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/840647.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE HEVC
+http://477222195778852834.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/852834.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC FHD
+http://477222195778854747.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/854747.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO SD" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO SD
+http://477222195778854749.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/854749.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HEVC" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HEVC
+http://477222195778854765.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/854765.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE FHD
+http://477222195778855648.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/855648.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS FHD
+http://477222195778855655.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/855655.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION FHD
+http://477222195778855657.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/855657.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN FHD
+http://477222195778856211.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/856211.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES SD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES SD
+http://477222195778856225.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/856225.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX SD
+http://477222195778856226.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/856226.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HD
+http://477222195778856227.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/856227.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://477222195778857181.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857181.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY HEVC
+http://477222195778857190.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857190.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION FHD
+http://477222195778857192.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857192.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION FHD
+http://477222195778857193.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857193.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES SD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES SD
+http://62023509268339490.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/339490.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX FHD
+http://62023509268339526.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/339526.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD SD
+http://62023509268374678.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/374678.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY SD
+http://62023509268623304.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/623304.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE HEVC
+http://62023509268722199.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/722199.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP HEVC
+http://62023509268748427.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/748427.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION SD" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION SD
+http://62023509268749010.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/749010.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION SD" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION SD
+http://62023509268755898.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/755898.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EDITION HD
+http://62023509268755911.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/755911.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TVCINE EMOTION HD" tvg-logo="https://asiagrandiptv.us/logo//CINETV.png" group-title="Portugal",PT: TVCINE EMOTION HD
+http://62023509268755914.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/755914.ts
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-name="PT: AXN MOVIES HEVC" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Portugal",PT: AXN MOVIES HEVC
+http://62023509268770428.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/770428.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES HEVC" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES HEVC
+http://62023509268770448.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/770448.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TV CINE EDITION HEVC" tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EDITION HEVC
+http://62023509268770480.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/770480.ts
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="PT: TV CINE EMOTION HEVC" tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE EMOTION HEVC
+http://62023509268770481.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/770481.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY FHD
+http://62023509268780278.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/780278.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE FHD
+http://62023509268784702.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/784702.ts
+#EXTINF:-1 tvg-id="nosstudioshd.pt" tvg-name="PT: NOS STUDIO FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIO FHD
+http://62023509268793645.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/793645.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINEMUNDO FHD" tvg-logo="" group-title="Portugal",PT: CINEMUNDO FHD
+http://62023509268794928.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/794928.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TV CINE TOP SD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE TOP SD
+http://62023509268795740.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/795740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDOᴴᴰ SD" tvg-logo="" group-title="Portugal",PT: CINEMUNDOᴴᴰ SD
+http://62023509268799130.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/799130.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME HEVC" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME HEVC
+http://62023509268799156.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/799156.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HD
+http://62023509268800703.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/800703.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFEᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: FOX LIFEᶠᴴᴰ FHD
+http://62023509268802470.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/802470.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN HEVC
+http://62023509268814411.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/814411.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO HEVC" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO HEVC
+http://62023509268817726.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/817726.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC CRIME FHD" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" group-title="Portugal",PT: AMC CRIME FHD
+http://62023509268821797.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/821797.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION HEVC" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION HEVC
+http://62023509268833490.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/833490.ts
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="PT: FOX COMEDY HEVC" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",PT: FOX COMEDY HEVC
+http://62023509268836464.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/836464.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX HEVC
+http://62023509268836466.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/836466.ts
+#EXTINF:-1 tvg-id="tvcinetop.pt" tvg-name="PT: TVCINE TOP FHD" tvg-logo="" group-title="Portugal",PT: TVCINE TOP FHD
+http://62023509268838702.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/838702.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS HEVC" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS HEVC
+http://62023509268840081.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/840081.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HEVC
+http://62023509268840647.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/840647.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES FHD
+http://62023509268849654.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/849654.ts
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",PT: FOX LIFE HEVC
+http://62023509268852834.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/852834.ts
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="PT: AMC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC FHD
+http://62023509268854747.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/854747.ts
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-name="PT: CINE MUNDO SD" tvg-logo="https://fotos.web.sapo.io/i/B19029ebe/17411447_tS5Cj.png" group-title="Portugal",PT: CINE MUNDO SD
+http://62023509268854749.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/854749.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION HEVC" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION HEVC
+http://62023509268854765.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/854765.ts
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ed/AXN_White_2015.png" group-title="Portugal",PT: AXN WHITE FHD
+http://62023509268855648.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/855648.ts
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",PT: NOS STUDIOS FHD
+http://62023509268855655.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/855655.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",PT: TV CINE ACTION FHD
+http://62023509268855657.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/855657.ts
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT: AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Portugal",PT: AXN FHD
+http://62023509268856211.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/856211.ts
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-name="PT: FOX MOVIES SD" tvg-logo="https://www.logolynx.com/images/logolynx/b5/b5696b21a3136ba3e473116bb5b4412d.png" group-title="Portugal",PT: FOX MOVIES SD
+http://62023509268856225.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/856225.ts
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="PT: FOX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Portugal",PT: FOX SD
+http://62023509268856226.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/856226.ts
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="Portugal",PT: HOLLYWOOD HD
+http://62023509268856227.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/856227.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://62023509268857181.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857181.ts
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="PT: SYFY HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Portugal",PT: SYFY HEVC
+http://62023509268857190.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857190.ts
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-name="PT: TVCINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE ACTION FHD
+http://62023509268857192.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857192.ts
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-name="PT: TVCINE EDITION FHD" tvg-logo="" group-title="Portugal",PT: TVCINE EDITION FHD
+http://62023509268857193.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857193.ts
+#EXTINF:-1,PT: FOX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1461
+#EXTINF:-1,PT: Fox Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1465
+#EXTINF:-1,PT: Fox Crime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1463
+#EXTINF:-1,PT: Fox Life
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1459
+#EXTINF:-1,PT: FOX Movies
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1457
+#EXTINF:-1,PT: Nos Studios
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1454
+#EXTINF:-1,PT: Star Channel
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303836
+#EXTINF:-1,PT: Star Comedy
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303837
+#EXTINF:-1,PT: Star Crime
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303857
+#EXTINF:-1,PT: Star Life
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303838
+#EXTINF:-1,PT: Star Movies
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303858
+#EXTINF:-1,PT: SYFY Portugal
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1475
+#EXTINF:-1,PT: TVCine Action
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1452
+#EXTINF:-1,PT: TVCine Edition
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/82254
+#EXTINF:-1,PT: TVCine Emotion
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1448
+#EXTINF:-1,PT: TVCine Top
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1446
+#EXTINF:-1,PT: W-Sport
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/303824
+#EXTINF:-1,PT: WWE NETWORK
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/304035
+#EXTINF:-1,PT - AMC
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61971
+#EXTINF:-1,PT - AXN BLACK HD
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61974
+#EXTINF:-1,PT - AXN Movies HD
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61975
+#EXTINF:-1,PT - AXN HD
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61977
+#EXTINF:-1,PT - AXN WHITE HD
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61979
+#EXTINF:-1,PT - SyFy
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62084
+#EXTINF:-1,NOS STUDIOS ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047396.ts
+#EXTINF:-1,TVCINE TOP ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047397.ts
+#EXTINF:-1,TVCINE TOP
+http://c4n.fun:80/12068534/436822/1047398.ts
+#EXTINF:-1,TVCINE EDITION ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047399.ts
+#EXTINF:-1,TVCINE EDITION
+http://c4n.fun:80/12068534/436822/1047400.ts
+#EXTINF:-1,TVCINE EMOTION ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047401.ts
+#EXTINF:-1,TVCINE EMOTION
+http://c4n.fun:80/12068534/436822/1047402.ts
+#EXTINF:-1,TVCINE ACTION ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047403.ts
+#EXTINF:-1,TVCINE ACTION
+http://c4n.fun:80/12068534/436822/1047404.ts
+#EXTINF:-1,HOLLYWOOD ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047405.ts
+#EXTINF:-1,HOLLYWOOD
+http://c4n.fun:80/12068534/436822/1047406.ts
+#EXTINF:-1,AXN MOVIES ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047407.ts
+#EXTINF:-1,AXN MOVIES
+http://c4n.fun:80/12068534/436822/1047408.ts
+#EXTINF:-1,FOX MOVIES ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047409.ts
+#EXTINF:-1,FOX MOVIES
+http://c4n.fun:80/12068534/436822/1047410.ts
+#EXTINF:-1,AMC
+http://c4n.fun:80/12068534/436822/1047411.ts
+#EXTINF:-1,CINEMUNDO ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047412.ts
+#EXTINF:-1,CINEMUNDO
+http://c4n.fun:80/12068534/436822/1047413.ts
+#EXTINF:-1,AXN ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047415.ts
+#EXTINF:-1,AXN
+http://c4n.fun:80/12068534/436822/1047416.ts
+#EXTINF:-1,AXN WHITE ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047417.ts
+#EXTINF:-1,AXN WHITE
+http://c4n.fun:80/12068534/436822/1047418.ts
+#EXTINF:-1,FOX ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047419.ts
+#EXTINF:-1,FOX
+http://c4n.fun:80/12068534/436822/1047420.ts
+#EXTINF:-1,FOX LIFE ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047421.ts
+#EXTINF:-1,FOX LIFE
+http://c4n.fun:80/12068534/436822/1047422.ts
+#EXTINF:-1,FOX CRIME ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047423.ts
+#EXTINF:-1,FOX CRIME
+http://c4n.fun:80/12068534/436822/1047424.ts
+#EXTINF:-1,FOX COMEDY ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047425.ts
+#EXTINF:-1,FOX COMEDY
+http://c4n.fun:80/12068534/436822/1047426.ts
+#EXTINF:-1,SYFY
+http://c4n.fun:80/12068534/436822/1047427.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
